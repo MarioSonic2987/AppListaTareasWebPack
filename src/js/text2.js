@@ -1,0 +1,1 @@
+export default 'Primeros pasos con Webpack 😎'
